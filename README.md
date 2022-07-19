@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrvincentoti
-- 👀 I’m interested in Laravel,CakePHP, Node.js,Angularjs
-- 🌱 I’m currently learning Cloud development with AWS
+- 👀 I’m interested in Laravel,CakePHP, Node.js,Angularjs,ReactJS
+- 🌱 I’m a DevOps enthusiast
 - 💞️ I’m looking to collaborate on a tech project or anything interesting 
 - 📫 How to reach me mrvincentoti@gmail.com
 
