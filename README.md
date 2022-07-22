@@ -13,7 +13,7 @@ Below are my core skills:
 
 ### :joystick: Hobbies
 
-In my spare time I enjoy playing video, and dancing.
+In my spare time I enjoy playing video games, and dancing.
 
 I also love going for walks with my wife, and watching movies.
 
