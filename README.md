@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vincent Oti 🌀 from Nigeria 🇳🇬
+<h1 align="center"> Hi 👋, I'm Vincent Oti 🌀 from Nigeria 🇳🇬</h1>
 ### I :hearts: automating stuffs
 :office: I'm currently working at Layer3Cloud as a DevOps Engineer
 
