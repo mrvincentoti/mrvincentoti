@@ -1,5 +1,5 @@
 ### :wave:  About 
-
+# Hi 👋, I'm Vincent Oti 🌀 from Nigeria 🇳🇬
 Hi, I'm Vincent Oti, a professional PHP and JavaScript web developer based in Abuja, Nigeria. I work onsite developing, testing and deploying web applications and websites.
 
 Below are my core skills:
