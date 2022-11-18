@@ -1,9 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Vincent Oti 🌀 from Nigeria 🇳🇬</h1>
 <h3 align="center"> I :hearts: automating stuffs </h3>
-<p>:office: I'm currently working at Layer3Cloud as a DevOps Engineer</p>
+<p>:office: I'm currently working at <a href="https://www.layer3.cloud/">Layer3Cloud</a> as a <b>DevOps Engineer</b></p>
 <p>:mailbox: You can reach me at mrvincentoti@gmail.com</p>
-
-:zap: Fun fact, I love cooking
+<p>:zap: Fun fact, <b>I love cooking</b></p>
 
 
 ### :joystick: Hobbies
