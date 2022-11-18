@@ -1,15 +1,9 @@
-### :wave:  About 
 # Hi 👋, I'm Vincent Oti 🌀 from Nigeria 🇳🇬
-Hi, I'm Vincent Oti, a professional PHP and JavaScript web developer based in Abuja, Nigeria. I work onsite developing, testing and deploying web applications and websites.
+### I :hearts: automating stuffs
+:office: I'm currently working at Layer3Cloud as a DevOps Engineer
+:mailbox: You can reach me at mrvincentoti@gmail.com
+:zap: Fun fact, I love cooking
 
-Below are my core skills:
-
-- Proficient with PHP, Apache/Nginx, MySQL and Linux (Ubuntu/Debian) stack
-- Experienced at using Flask, Slim, Laravel, and CakePHP
-- Building frontends using HTML, CSS (Bootstrap), JavaScript (React, Angular,jQuery)
-- Configuring continuous integration and deployment workflows using GitHub Actions, and Circleci
-- Creating development environments using Docker, Ansible, and Cloudformation
-- Extensive experience working as part of an agile remote team
 
 ### :joystick: Hobbies
 
