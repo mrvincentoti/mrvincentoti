@@ -4,10 +4,13 @@
 <p>:mailbox: You can reach me at mrvincentoti@gmail.com</p>
 <p>:zap: Fun fact, <b>I love cooking</b></p>
 
-### 📝: Some projects I have worked on recently
+### 📝 Some projects I have worked on recently
 <ul>
   <li>
-    <p>:bulb:Deploy a highly available Laravel app on AWS with Terraform and Ansible</p>
+    <p>:bulb:Deploy a highly available Laravel app on AWS with Terraform and Ansible - <a href="https://github.com/mrvincentoti/ha-laravel-aws-terraform">Github</a></p>
+  </li>
+  <li>
+    <p>:bulb:Deploy a highly available Web app on AWS using CloudFormation - <a href="https://github.com/mrvincentoti/cloudformation-high-availability-web-app">Github</a></p>
   </li>
 </ul>
 
