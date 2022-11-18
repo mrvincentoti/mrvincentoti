@@ -12,6 +12,12 @@
   <li>
     <p>:bulb:Deploy a highly available Web app on AWS using CloudFormation - <a href="https://github.com/mrvincentoti/cloudformation-high-availability-web-app">Github</a></p>
   </li>
+  <li>
+    <p>:bulb:CI/CD Pipeline to deploy a human resource app to AWS - <a href="https://github.com/mrvincentoti/udapeople_cicd_pipeline">Github</a></p>
+  </li>
+  <li>
+    <p>:bulb:Setup SSH connection between Nodes Using Ansible - <a href="https://github.com/mrvincentoti/setup-ssh-between-two-ec2-instances">Github</a></p>
+  </li>
 </ul>
 
 ### :joystick: Hobbies
