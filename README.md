@@ -23,7 +23,7 @@
 ### 🧾 Certifications I have Accomplished
 <ul>
   <li>
-    <p> :bulb:Cloud DevOps NanoDegree - <a href="https://graduation.udacity.com/confirm/THKSFZTK">View</a></p>
+    <p> :medal_military:Cloud DevOps NanoDegree - <a href="https://graduation.udacity.com/confirm/THKSFZTK">View</a></p>
   </li>
   <li>
     <p> :medal_military:AWS Cloud Practitioner</p>
